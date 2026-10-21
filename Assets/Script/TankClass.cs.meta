@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8c550cf8b71fd8447b5822c88b239194
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Icon: {fileID: 21300000, guid: e8b6af21ecb617c45a9ad6d61a09ddf6, type: 3}
+  - TankPrefab: {fileID: 919132149155446097, guid: ae491a9e5dbef2643b1768ab879920ea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

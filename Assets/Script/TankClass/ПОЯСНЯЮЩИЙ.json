@@ -1,0 +1,50 @@
+{
+    "InternalName": "VK10001P",  - Внутреннее название
+    "DisplayName": "VK 100.01(P)", - Отображаемое название
+    "Level": 8,	- Уровень
+    "Class": "HT",	- Класс,писать первое слово на английском либо TD для пт
+    "Nation": "Germany", - Нация писать по-английски полностью кроме USA, UK, USSR
+    "SilverCost": 2510000, -Стоимость в сере
+    "GoldCost": 0, Стоимость в голде
+    "XPCost": 54000, Стоимость в опыте
+	"IncomeModifier": 1, Доходность
+	"Icon": "Tanks/vk10001p_icon.png",  Файл иконки, просто переименовать
+	"TankPrefab": "TankPrefabs/vk10001p.prefab", Файл танка просто переименовать
+	"IsPremium": false,
+	"IsPurchased": true, Купленный или нет
+	"IsResearched": true, Исследованый или нет
+	"IsSelected": true, Всегда False кроме как для vk100
+	"Health": 2000, Хп
+	"DisplayArmorTurretFront": 250,Броня лоб башни
+	"DisplayArmorTurretSide": 180, борт башни
+	"DisplayArmorTurretBack": 130, корма башни
+	"DisplayArmorHullFront": 200, Лоб корпуса
+	"DisplayArmorHullSide": 150, борта
+	"DisplayArmorHullBack": 120, корма
+	"SpotRadius": 270.0, Засвет
+	"DisguiseStill": 43.0, Маскировка на месте
+	"DisguiseMoving": 14.0, Маскировка в движении
+	"DisguiseShooting": 8.0, Маскировка при стрельбе
+	"Cooldown": 13.5, Перезарядка
+	"PenetrationAP": 220, Пробитие бб
+	"PenetrationGold": 270, голда
+	"PenetrationHE": 65, фугас
+	"DamageAP": 460, Урон бб
+	"DamageGold": 390, голда
+	"DamageHE": 600, Фугас
+	"SpeedAP": 860, Скорость снаряда бб
+	"SpeedGold": 1000, голда
+	"SpeedHE": 680, фугас
+	"WeaponBendLimitUp": 30, Увн вверх
+	"WeaponBendLimitDown": 8, увн вниз
+	"WeaponBendLimitRight": 180, угн вправо для танков с фулл башней 180
+	"WeaponBendLimitLeft": 180, угн влево для танков с фулл башней 180
+	"MaxSpeedForwards": 20, Максималка вперёд
+	"MaxSpeedBackwards": 15, назад
+	"Mass": 130.15, Масса
+	"RotationSpeedHull": 30.12, Поворот башни
+	"RotationSpeedTurret": 18.42, Корпуса
+	"PassabilitySolid": 120, Проходимость твёрдый грунт
+	"PassabilitySoft": 98, Мягкий грунт
+	"PassabilityWater": 78, вода
+}
